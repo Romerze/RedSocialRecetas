@@ -1,0 +1,40 @@
+
+.bg-dark .navbar-brand{
+    color: white;
+    font-size: 2rem;
+    &:hover{
+        color: white;
+    }
+}
+
+trix-editor{
+    min-height: 300px;
+    height: auto !important;
+}
+
+.bg-dark .navbar-nav .nav-link{
+    color: white;
+    font-size: 1rem;
+    &:hover{
+        color: #a8dadc;
+    }
+}
+
+.icono{
+    width: 25px;
+}
+
+.hero-categorias{
+    background-color: #a8dadc;
+    height: 30rem;
+    background-size: cover;
+    background-position: top center;
+
+}
+
+.texto-buscar{
+    p{
+        font-size: 1.4rem;
+        color:#fff;
+    }
+}
